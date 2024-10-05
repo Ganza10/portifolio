@@ -1,0 +1,170 @@
+#section{
+    background-color: rgb(255, 255, 255);
+    
+}
+.nav{
+   
+    overflow: hidden;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+#ganza{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    margin-top: 100px;
+    
+}
+#image{
+    margin-top: -20px;
+}
+#section1{
+
+    background-color:rgb(249, 249, 249) ;
+    margin-top: -40px;
+}
+#about{
+    color: rgb(0, 0, 0);
+    font-family:'Times New Roman', Times, serif;
+    font-size: 40px;
+    padding-left: 20px;
+    text-align: center;
+    
+}
+#me{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+}
+#section2{
+background-color: rgb(252, 252, 252);
+margin-top: -30px;
+height: auto;
+padding-top: -20px;
+}
+#Myskills{
+text-align: center;
+font-family:'Times New Roman', Times, serif;
+font-size: 40px;
+color: rgb(0, 0, 0);
+margin-top: 30px;
+
+
+}
+
+#subsec{
+    padding-left: 555px;
+    margin-top: -20px;
+    padding-top: -30px;
+    
+}
+#skills{
+    color: rgb(0, 0, 0); 
+    font-size: 20px;
+}
+#list2{
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+}
+#section3{
+    background-color:rgb(255, 255, 255);
+    margin-top: -40px;
+
+}
+#projects{
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 40px;
+    color: rgb(0, 0, 0);
+}
+#doctors{
+    padding-left:300px ;
+}
+#students{
+    padding-left: 200px;
+}
+#doct{
+    color:rgb(0, 0, 0);
+    padding-left: 300px;
+    margin-top: -5px;
+}
+#stu{
+    color: rgb(0, 0, 0);
+    padding-left: 725px;
+    margin-top: -55px;
+}
+#section4{
+    background-color: rgb(255, 255, 255);
+    margin-top: -50px;
+}
+#communication{
+    padding-left: 20px;
+}
+#networking{
+
+}
+#graphic{
+   
+}
+#uiux{
+   
+}
+#photo{
+    
+}
+#web{
+   
+}
+#comski{
+    padding-left:50px;
+    font-size: 15px;
+    font-family:'Times New Roman', Times, serif;
+}
+#net{
+    padding-left: 270px;
+    font-size: 15px;
+    margin-top: -32px;
+    font-family:'Times New Roman', Times, serif;
+}
+#graph{
+    padding-left: 470px;
+    font-size: 15px;
+    margin-top: -32px; 
+    font-family:'Times New Roman', Times, serif;
+}
+#ui{
+    padding-left: 685px;
+    font-size: 15px;
+    margin-top: -32px;  
+    font-family:'Times New Roman', Times, serif;
+}
+#edit{
+    padding-left: 895px;
+    font-size: 15px;
+    margin-top: -32px; 
+    font-family:'Times New Roman', Times, serif; 
+}
+#wedb{
+    padding-left: 1110px;
+    font-size: 15px;
+    margin-top: -32px; 
+    font-family:'Times New Roman', Times, serif; 
+}
+#servii{
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 40px;
+    color: rgb(0, 0, 0);
+}
+#serve{
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 30px;
+    color: rgb(0, 0, 0); 
+}
+#prov{
+    padding-left: 500px;
+    font-size: 20px;
+}
+
